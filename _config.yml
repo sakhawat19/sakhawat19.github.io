@@ -1,0 +1,63 @@
+title: "Sakhawat Hossan"
+name: "Sakhawat Hossan"
+description: "LLMs · Reliability & Privacy · Social Network Analysis · Full-stack Software"
+url: "https://<yourusername>.github.io"
+
+# Minimal Mistakes via remote_theme (compatible with GitHub Pages)
+remote_theme: "mmistakes/minimal-mistakes"
+minimal_mistakes_skin: default
+
+markdown: kramdown
+permalink: /:title/
+timezone: America/New_York
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-include-cache
+
+author:
+  name: "Sakhawat Hossan"
+  avatar: /assets/images/avatar.jpg
+  bio: "Ph.D. student at UNC Greensboro. Researching reliability, privacy, and hallucination detection in LLMs; Social Network Analysis."
+  location: "Greensboro, NC, USA"
+  links:
+    - label: "Email"
+      icon: "fas fa-envelope"
+      url: "mailto:s_hossan@uncg.edu"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/sakhawat-hossan"
+    - label: "Google Scholar"
+      icon: "ai ai-google-scholar"
+      url: "https://scholar.google.com/"
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/<yourusername>"
+
+include:
+  - _pages
+
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: single
+      author_profile: true
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: single
+      author_profile: true
+
+# Top navigation
+navigation:
+  - title: "Publications"
+    url: /publications/
+  - title: "Teaching"
+    url: /teaching/
+  - title: "Services"
+    url: /services/
