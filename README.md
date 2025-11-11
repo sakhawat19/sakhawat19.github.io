@@ -1,6 +1,7 @@
-# GitHub Pages Branch Deploy (Most Compatible)
+# Ready-to-Publish Starter for sakhawat19.github.io
 
-1) Upload these files to a public repo named `<yourusername>.github.io`.
-2) Settings → Pages → **Deploy from a branch** → Branch: `main`, Folder: `/ (root)`.
-3) Replace `assets/images/avatar.jpg` with your headshot.
-4) Update `_config.yml` to use your actual username and links.
+- Pages → Source: **Deploy from a branch** (Branch: `main`, Folder: `/ (root)`)
+- `_config.yml` already set:
+  - `url: https://sakhawat19.github.io`
+  - `baseurl: ""`
+  - GitHub link points to `https://github.com/sakhawat19`

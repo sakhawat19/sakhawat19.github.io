@@ -1,9 +1,9 @@
 title: "Sakhawat Hossan"
 name: "Sakhawat Hossan"
 description: "LLMs · Reliability & Privacy · Social Network Analysis · Full-stack Software"
-url: "https://<sakhawat19>.github.io"
+url: "https://sakhawat19.github.io"
+baseurl: ""
 
-# Minimal Mistakes via remote_theme (compatible with GitHub Pages)
 remote_theme: "mmistakes/minimal-mistakes"
 minimal_mistakes_skin: default
 
@@ -34,7 +34,7 @@ author:
       url: "https://scholar.google.com/"
     - label: "GitHub"
       icon: "fab fa-github"
-      url: "https://github.com/<yourusername>"
+      url: "https://github.com/sakhawat19"
 
 include:
   - _pages
@@ -53,7 +53,6 @@ defaults:
       layout: single
       author_profile: true
 
-# Top navigation
 navigation:
   - title: "Publications"
     url: /publications/
