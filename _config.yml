@@ -20,7 +20,7 @@ plugins:
 author:
   name: "Sakhawat Hossan"
   avatar: /assets/images/avatar.jpg
-  bio: "Ph.D. student at UNC Greensboro. Researching reliability, privacy, and hallucination detection in LLMs; Social Network Analysis."
+  bio: "Ph.D. student at UNC Greensboro. Researching efficiency, reliability, privacy, and security in LLMs; Social Network Analysis."
   location: "Greensboro, NC, USA"
   links:
     - label: "Email"
