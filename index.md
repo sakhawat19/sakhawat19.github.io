@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 I am a Ph.D. student in Computer Science at **UNC Greensboro**, advised by **Prof. Dr. Jing Deng**.
-My research focuses on the ** efficiency, reliability, privacy, and security** of Large Language Models (LLMs),
+My research focuses on the **efficiency, reliability, privacy, and security** of Large Language Models (LLMs),
 and **Social Network Analysis (SNA)** of Magdalenian hunter-gatherer societies.
 
 ## Research interests
@@ -17,7 +17,7 @@ and **Social Network Analysis (SNA)** of Magdalenian hunter-gatherer societies.
 ## Professional Experience
 
 ### Research Assistant — University of North Carolina at Greensboro (_Aug 2023 – Present_)
-- Conducting research on **reliability, privacy, and hallucination detection** in Large Language Models (LLMs) under the supervision of **Dr. Jing Deng**.  
+- Conducting research on **efficiency, reliability, privacy, and security** in Large Language Models (LLMs) under the supervision of **Dr. Jing Deng**.  
 - Developing algorithms for detecting and mitigating hallucinations, studying adversarial robustness, and exploring privacy-preserving training approaches.  
 - Contributing to an NSF-funded **Social Network Analysis (SNA)** project on Magdalenian hunter-gatherer societies.
 
