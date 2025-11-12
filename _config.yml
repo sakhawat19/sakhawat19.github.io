@@ -30,7 +30,7 @@ author:
       icon: "fab fa-linkedin"
       url: "https://www.linkedin.com/in/sakhawat-hossan-a77829b2/"
     - label: "Google Scholar"
-      icon: "ai ai-google-scholar"
+      icon: "fa-brands fa-google-scholar" 
       url: "https://scholar.google.com/citations?user=gWq4e3EAAAAJ&hl=en&oi=ao"
     - label: "GitHub"
       icon: "fab fa-github"
