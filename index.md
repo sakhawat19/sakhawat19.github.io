@@ -21,7 +21,7 @@ and **Social Network Analysis (SNA)** of Magdalenian hunter-gatherer societies.
 - Developing algorithms for detecting and mitigating hallucinations, studying adversarial robustness, and exploring privacy-preserving training approaches.  
 - Contributing to an NSF-funded **Social Network Analysis (SNA)** project on Magdalenian hunter-gatherer societies.
 
-### Senior Software Programmer — Fiber@Home Ltd, Dhaka, Bangladesh (_Jul 2017 – Aug 2023_)
+### Senior Software Programmer — Fiber@Home Ltd, Dhaka, Bangladesh (_Jul 2017 – Jul 2023_)
 - Served as a **Full-Stack Developer**, designing and maintaining ERP systems using **PHP, Bootstrap, JavaScript, AngularJS, and MySQL**.  
 - Led both front-end and back-end development for enterprise tools and mobile applications.  
 - Conducted software integration, compatibility testing, and data optimization for large-scale deployments.
