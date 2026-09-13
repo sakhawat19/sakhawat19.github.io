@@ -1,62 +1,54 @@
-title: "Sakhawat Hossan"
-name: "Sakhawat Hossan"
-description: "LLMs · Reliability & Privacy · Social Network Analysis · Full-stack Software"
-url: "https://sakhawat19.github.io"
-baseurl: ""
-
-remote_theme: "mmistakes/minimal-mistakes"
+title: Sakhawat Hossan
+name: Sakhawat Hossan
+description: Trustworthy AI · LLM reliability, security, and efficiency
+url: https://sakhawat19.github.io
+baseurl: ''
+remote_theme: mmistakes/minimal-mistakes
 minimal_mistakes_skin: default
-
 markdown: kramdown
 permalink: /:title/
 timezone: America/New_York
-
 plugins:
-  - jekyll-remote-theme
-  - jekyll-sitemap
-  - jekyll-feed
-  - jekyll-include-cache
-
+- jekyll-remote-theme
+- jekyll-sitemap
+- jekyll-feed
+- jekyll-include-cache
 author:
-  name: "Sakhawat Hossan"
+  name: Sakhawat Hossan
   avatar: /assets/images/avatar.jpg
-  bio: "Ph.D. student at UNC Greensboro. Researching efficiency, reliability, privacy, and security in LLMs; Social Network Analysis."
-  location: "Greensboro, NC, USA"
+  bio: Ph.D. student and Research Assistant in Computer Science at UNC Greensboro.
+    Building reliable, secure, and efficient AI systems.
+  location: Greensboro, NC, USA
   links:
-    - label: "Email"
-      icon: "fas fa-envelope"
-      url: "mailto:s_hossan@uncg.edu"
-    - label: "LinkedIn"
-      icon: "fab fa-linkedin"
-      url: "https://www.linkedin.com/in/sakhawat-hossan-a77829b2/"
-    - label: "Google Scholar"
-      icon: "fa-brands fa-google-scholar" 
-      url: "https://scholar.google.com/citations?user=gWq4e3EAAAAJ&hl=en&oi=ao"
-    - label: "GitHub"
-      icon: "fab fa-github"
-      url: "https://github.com/sakhawat19"
-
+  - label: Email
+    icon: fas fa-envelope
+    url: mailto:s_hossan@uncg.edu
+  - label: LinkedIn
+    icon: fab fa-linkedin
+    url: https://www.linkedin.com/in/sakhawat-hossan-a77829b2/
+  - label: Google Scholar
+    icon: fa-brands fa-google-scholar
+    url: https://scholar.google.com/citations?user=gWq4e3EAAAAJ&hl=en&oi=ao
+  - label: GitHub
+    icon: fab fa-github
+    url: https://github.com/sakhawat19
 include:
-  - _pages
-
+- _pages
 defaults:
-  - scope:
-      path: ""
-      type: "pages"
-    values:
-      layout: single
-      author_profile: true
-  - scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: single
-      author_profile: true
-
-navigation:
-  - title: "Publications"
-    url: /publications/
-  - title: "Teaching"
-    url: /teaching/
-  - title: "Services"
-    url: /services/
+- scope:
+    path: ''
+    type: pages
+  values:
+    layout: single
+    author_profile: true
+- scope:
+    path: ''
+    type: posts
+  values:
+    layout: single
+    author_profile: true
+exclude:
+- README.md
+- UPDATE_NOTES.md
+- Gemfile
+- Gemfile.lock

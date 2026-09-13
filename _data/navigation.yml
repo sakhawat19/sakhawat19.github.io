@@ -1,8 +1,13 @@
-# _data/navigation.yml
 main:
-  - title: "Publications"
-    url: /publications/
-  - title: "Teaching"
-    url: /teaching/
-  - title: "Services"
-    url: /services/
+- title: About
+  url: /
+- title: Research
+  url: /research/
+- title: Publications
+  url: /publications/
+- title: Teaching
+  url: /teaching/
+- title: CV
+  url: /cv/
+- title: Service
+  url: /services/
