@@ -3,7 +3,7 @@ title: "Curriculum vitae"
 permalink: /cv/
 ---
 
-[Download my academic CV (Word)]({{ '/assets/files/Sakhawat_Hossan_Academic_CV.docx' | relative_url }}){: .btn .btn--primary}
+[Download my academic CV (PDF)]({{ '/assets/files/Sakhawat_Hossan_Academic_CV.pdf' | relative_url }}){: .btn .btn--primary}
 
 Updated September 2026. The CV includes my education, publications, teaching, research and industry experience, professional service, skills, and awards.
 
